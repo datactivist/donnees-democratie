@@ -1,0 +1,517 @@
+---
+title: "Les données (ouvertes) et le service public territorial"
+format: 
+  datactivist-revealjs:
+    css: |
+      @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap');
+    slide-level: 2
+editor: visual
+---
+
+## Qui suis-je ?
+
+::: {.column width="40%"}
+![](https://datactivist.coop/oraccle/comprendre_open_data/img/pdr.png)
+:::
+
+:::: {.column width="60%"}
+::: incremental
+-   Co-fondateur de la coopérative [Datactivist](https://datactivist.coop)
+
+-   Maître de conférences associé à Sciences Po Aix
+
+-   Auteur du livre [*Les Données de* *la démocratie*](https://cfeditions.com/donnees-democratie/)*,* C&F éditions, 2024
+
+-   Co-fondateur et administrateur de [MaDada.fr](MaDada.fr)
+:::
+::::
+
+## Le livre *Les données de la démocratie*
+
+::: fragment
+C'est l'instant autopromo
+:::
+
+::::: fragment
+::: {.column width="65%"}
+::: incremental
+* **Comment faire pour mettre les données ouvertes au service des citoyens  et de la démocratie ? L’open data est-il vraiment un contre-pouvoir ?**
+
+* Open data : accès à la matière première de l’information et du savoir. Refaire les calculs et proposer de nouvelles interprétations.
+
+* —\> Un outil de la « **contre-démocratie** » : enrichit la démocratie, la conforte et fait système avec les institutions démocratiques
+
+* —\> Un outil d’**empowerment** et d’**émancipation**
+:::
+:::
+
+::: {.column width="35%"}
+![](img/couv_donnees-ouvertes_grand.jpg){width="70%" height="auto"}
+:::
+:::::
+
+# Un petit détour par la théorie et l'actu pour commencer {background-color="#173541"}
+
+## La co-construction des formes de statistiques et de gouvernement
+
+::: {.column width="20%"}
+![](images/desrosieres.jpeg)
+:::
+
+:::: {.column width="80%"}
+::: incremental
+-   La statistique crée des catégories qui permettent de comparer et d'agréger.
+
+-   Ces catégories deviennent des cadres de pensée et d'action politique
+
+-   Les statistiques façonnent la manière dont l'État conçoit et gouverne la société. -   **Les outils statistiques et les formes de gouvernement sont co-construites**
+:::
+:::
+
+
+------------------------------------------------------------------------
+
+### Nouvelles statistiques, nouvelles formes d'action publique ?
+
+::: {.column width="40%"}
+![](images/lemonde.png)
+
+Source : *Le Monde*, 5 février 2025
+:::
+
+::::: {.column width="60%"}
+::: fragment
+**L'habitant.année mesure la présence effective sur un territoire :**
+
+-   Paris : 2,2M résidents → 3,7M habitants.année
+
+-   La "France urbaine" : 32M résidents → 43M habitants.année
+:::
+
+::: fragment
+**De nouvelles données qui interrogent l'action publique**
+
+-   Repenser l'offre de transport public (ex: déficit de places TER)
+
+-   Adapter les services publics aux usages réels du territoire
+
+→ Un cas concret où un nouvel outil statistique appelle de nouvelles formes d'action publique
+:::
+:::::
+
+------------------------------------------------------------------------
+
+### Un projet révélateur d'un mouvement de fond
+
+::: {.column width="60%"}
+![](images/carte_lemonde-01.png)
+:::
+
+::: {.column width="40%"}
+::: incremental
+-   Des données massives et diverses (téléphonie, mobilités, statistiques…)
+-   De la circulation de données entre le public et le privé
+-   Des techniques de traitement et d'analyse de données
+-   Des formats de visualisation de données
+-   Une médiatisation croissante de ces enjeux
+:::
+:::
+
+# Quelques concepts essentiels {background-color="#173541"}
+
+## La donnée
+
+::: {.column width="40%"}
+![](images/pyramide.png)
+:::
+
+::: {.column width="60%"}
+> Les données sont généralement comprises comme étant la matière première produite dans l’abstraction du monde en catégories, mesures et autres formes de représentation - nombres, caractères, symboles, images, sons, ondes électromagnétiques, bits - qui constituent les fondations sur lesquelles l’information et le savoir sont créés.[^1]
+:::
+
+[^1]: Rob Kitchin, *The Data Revolution*, Sage, 2015
+
+::: fragment
+**Pour le dire plus simplement : "**Les données c’est comme le sable pour construire un château de connaissances."[^2]
+:::
+
+[^2]: Etudiant anonyme, Sciences Po Aix, 2022
+
+------------------------------------------------------------------------
+
+### Le big data ou données massives
+
+![](images/libeo-3v-du-big-data.png){width="623"}
+
+## La science des données
+
+![](images/data-science-venn-diagram.webp){fig-align="center" width="572"}
+
+## La circulation des données
+
+![](images/spectre.png){fig-align="center" width="621"}
+
+[^3]
+
+[^3]: Source : observatoire Data Publica
+
+## La visualisation de données
+
+![](images/DataVizProject_p1.png){width="874"}
+
+# L'open data et le service public de la donnée {background-color="#173541"}
+
+------------------------------------------------------------------------
+
+### La donnée irrigue le service public territorial
+
+![](images/schema_usages.png){fig-align="center" width="630"}
+
+------------------------------------------------------------------------
+
+### Les grands principes de l'open data
+
+:::: {.column width="50%"}
+::: incremental
+1.  L'ouverture des données **par principe** : la norme plutôt que l'exception
+2.  Des données **à jour et complètes** : en ligne plutôt qu'à la demande ou au cas par cas
+3.  Des données **accessibles et utilisables :** dans des formats ouverts et des licences ouvertes
+4.  Des données **comparables et interopérables** : dans des standards ouverts et partagés (si possible)
+5.  Des données pour **améliorer la gouvernance et d’encourager la participation citoyenne**
+6.  Des données pour **favoriser le développement inclusif et l’innovation**
+:::
+::::
+
+::: {.column width="50%"}
+![](images/2015-10-26-1445879718-614527-Charterprinciples.jpg)
+:::
+
+------------------------------------------------------------------------
+
+### La loi pour une République numérique : l'open data devient la norme
+
+:::::: columns
+::: {.column width="40%"}
+![](https://datactivist.coop/oraccle/comprendre_open_data/img/repnum.jpg){.fragment}
+:::
+
+:::: {.column width="60%"}
+::: fragment
+**Un principe d'ouverture des données par principe** pour toutes les administrations, les entreprises délégataires d'une mission de service public et les collectivités locales de plus de 3500 habitants et 50 agents.
+:::
+::::
+::::::
+
+:::::: columns
+::: {.column width="40%"}
+![](https://datactivist.coop/oraccle/comprendre_open_data/img/openstand.png){.fragment}
+:::
+
+:::: {.column width="60%"}
+::: fragment
+**L'utilisation de standards ouverts :** l'administration est dorénavant tenue de publier "dans un standard ouvert, aisément réutilisable et exploitable par un système de traitement automatisé".
+:::
+::::
+::::::
+
+------------------------------------------------------------------------
+
+### Une continuité entre les principes du service public et l'open data
+
+::: {.column width="40%"}
+![](images/principes.png)
+:::
+
+:::: {.column width="60%"}
+::: incremental
+1.  **Continuité\
+    **Des données utilisables même après l'arrêt des services et une disponibilité garantie
+
+2.  **Égalité\
+    **Accès et réutilisation non-discriminatoires pour tous, droit égal garanti au cœur de l'open data
+
+3.  **Mutabilité**\
+    Évolution possible des services par les citoyens, adaptation aux besoins et avancées techniques
+:::
+::::
+
+------------------------------------------------------------------------
+
+### Une extension possible aux données d'intérêt général
+
+![](https://datactivist.coop/oraccle/comprendre_open_data/img/dig.png){fig-align="center"}
+
+[^4]
+
+[^4]: Source : Observatoire data publica
+
+# L'open data : bilan critique et propositions {background-color="#173541"}
+
+## Un renouvellement de la transparence en demi-teinte
+
+::::: columns
+::: {.column width="50%"}
+::: incremental
+-   Les fondements juridiques instables de la transparence administrative
+-   L'open data : un carburant pour les « machines à scandale » ?
+-   Des données « inoffensives » ?
+-   Faut-il produire ses propres données ?
+:::
+:::
+
+::: {.column width="50%"}
+![](img/courdescomptes2.png)
+:::
+:::::
+
+## Un exemple : les Indices de Position Sociale des établissements scolaires {background-color="#173541"}
+
+::::: columns
+::: {.column width="50%"}
+![](img/lechenet.png)
+:::
+
+::: {.column width="50%"}
+![](img/lemonde-ips.png)
+:::
+:::::
+
+## Autre exemple : les notes de frais des maires {background-color="#173541"}
+
+::::: columns
+::: {.column width="50%"}
+![](img/joissains.png)
+:::
+
+::: {.column width="50%"}
+![](img/chicane.png)
+
+Lire à ce sujet : [chicane-lemag.fr/16](https://chicane-lemag.fr/16)
+:::
+:::::
+
+## Des promesses démesurées de croissance et d'innovation
+
+:::::: columns
+:::: {.column width="50%"}
+::: incremental
+-   Le « nouveau pétrole » : des conjectures de croissance et d'emploi disproportionnées
+-   Un impact en deçà des attentes sur la création d'emploi
+-   Des données souvent introuvables et mal documentées
+-   Des données pas encore assez fiables pour créer des services pérennes
+:::
+::::
+
+::: {.column width="50%"}
+![](img/preische.png)
+:::
+::::::
+
+## Quelques exemples de services nés de l'open data {background-color="#173541"}
+
+![](img/services.png)
+
+## Une transformation des administrations en cours
+
+:::::: columns
+:::: {.column width="50%"}
+::: incremental
+-   Le mirage de l'ouverture des données par défaut
+-   Les nombreux obstacles à surmonter dans l'ouverture des données
+-   Les bénéfices inattendus de l'ouverture des données pour le fonctionnement des administrations
+:::
+::::
+
+::: {.column width="50%"}
+![](img/odimpact.png)
+
+*illustration : [GovLab - Open Data Impact](https://odimpact.org/)*
+:::
+::::::
+
+# Qu'est ce qu'on fait ? Alternatives et propositions {background-color="#173541"}
+------------------------------------------------------------------------
+### On se retrousse les manches pour obtenir des données
+
+:::::: columns
+:::: {.column width="50%"}
+**5 stratégies alternatives :**
+
+::: incremental
+1.  Recourir au droit d'accès
+2.  Scraper les données sur le web
+3.  Rassembler des données à partir des informations disponibles
+4.  Faire appel à une foule de contributeurs
+5.  Concevoir des communs de données
+:::
+::::
+
+::: {.column width="50%"}
+![](img/cimade.jpeg)
+
+Un exemple : la Cimade avec [À guichets fermés](https://aguichetsfermes.lacimade.org/)
+:::
+::::::
+------------------------------------------------------------------------
+### On milite pour refonder le droit d'accès
+
+:::::: columns
+:::: {.column width="50%"}
+::: incremental
+-   De la CADA à la Haute Autorité pour la Transparence de la Vie Publique (HATVP)
+-   Créer un point central pour les demandes d'accès
+-   Donner le pouvoir de sanctionner les administrations systématiquement récalcitrantes
+-   Créer un « référé communication » pour accélérer le traitement des demandes
+:::
+::::
+
+::: {.column width="50%"}
+![](https://hot-objects.liiib.re/forum-madada-fr/original/1X/1fb2d7422bf286dabfc6c5bd523b9b81fbf2353c.jpeg)
+
+*Source : [Donut Infolab](https://forum.madada.fr/t/demarrer-sur-ma-dada/859)*
+:::
+::::::
+
+------------------------------------------------------------------------
+### On crée de nouveaux mécanismes pour obtenir les données
+
+:::::: columns
+:::: {.column width="50%"}
+::: incremental
+-   Renforcer le cadre légal des données d'intérêt général
+-   Créer des coopératives de données
+-   Développer le crowdsourcing de données publiques
+:::
+::::
+
+::: {.column width="50%"}
+![](https://www.echosciences-paca.fr/uploads/a_d/image/attachment/1005479235/xl_miniature.jpg)
+
+*Source : [Echosciences PACA](https://www.echosciences-paca.fr/uploads/a_d/image/attachment/1005479235/xl_miniature.jpg)*
+:::
+::::::
+
+------------------------------------------------------------------------
+### On développe la concertation entre producteurs et réutilisateurs
+
+:::::: columns
+:::: {.column width="50%"}
+::: incremental
+-   Créer un conseil national de la donnée
+-   Étendre et renforcer le service public de la donnée
+-   Créer des plans nationaux d'ouverture sectorielle
+:::
+::::
+
+::: {.column width="50%"}
+*Il existe des instances de concertation autour de la donnée mais dans des domaines sectoriels :*
+
+![](https://cnig.gouv.fr/IMG/png/cnig2022_geolocalise-petit-2.png)
+
+![](https://www.cnis.fr/wp-content/uploads/2017/12/CNIS-LOGO-300dpi-QUADRI-768x394.jpg)
+:::
+::::::
+------------------------------------------------------------------------
+
+### On pérennise l'ouverture des données
+
+:::::: columns
+:::: {.column width="50%"}
+::: incremental
+-   Archiver les données publiques
+-   Fédérer producteurs et réutilisateurs de données autour d'une organisation d'intérêt général
+-   Relancer l'administrateur général des données
+:::
+::::
+
+::: {.column width="50%"}
+![](https://luigireggi.eu/wp-content/uploads/2018/06/Slide2.png)
+:::
+::::::
+------------------------------------------------------------------------
+### On place les données au cœur des politiques publiques
+
+:::::: columns
+:::: {.column width="50%"}
+::: incremental
+-   Généraliser les stratégies data
+-   Co-construire des politiques publiques "nativement" avec les données
+-   Co-construire les indicateurs des politiques publiques
+-   Développer le sourcing des réutilisateurs
+:::
+::::
+
+::: {.column width="50%"}
+![](https://open.datactivist.coop/images/products/fresque-opendata.webp)
+:::
+::::::
+------------------------------------------------------------------------
+
+### On développe une culture critique des données
+
+:::::: columns
+:::: {.column width="50%"}
+::: incremental
+-   Systématiser l'ouverture et usage des données dans les concertations
+-   Développer les programmes qui apportent un regard critique sur les données
+-   Développer la factualité
+:::
+::::
+
+::: {.column width="50%"}
+![](https://www.francebleu.fr/s3/cruiser-production/2017/02/f21ba120-7982-495e-9b5a-445de5c9c21a/1200x680_carte_tae_support_cs_30_mars.webp)
+:::
+::::::
+------------------------------------------------------------------------
+
+## On forme massivement aux données
+
+:::::: columns
+:::: {.column width="50%"}
+::: incremental
+-   Développer les Infolabs
+-   Inviter les données ouvertes dans les médiathèques
+-   Intégrer les données dans les programmes scolaires
+:::
+::::
+
+::: {.column width="50%"}
+![](img/dataliteracy-removebg.png)
+
+[*Venngage*](https://venngage.com/blog/data-literacy/)
+:::
+::::::
+
+## Conclusion : merci les abeilles ! 🐝 {background-color="#173541"}
+
+::::: columns
+::: {.column width="50%"}
+![](img/couv_donnees-ouvertes_grand.jpg)
+:::
+
+::: {.column width="50%"}
+![](img/abeilles.png)
+:::
+:::::
+
+## Conclusion : approfondir et étendre la démocratie {background-color="#173541"}
+
+:::::: columns
+:::: {.column width="50%"}
+::: incremental
+-   Un écosystème fragile
+-   Approfondir la démocratie : d'un droit à un devoir de rendre des comptes
+-   Étendre la démocratie : ouvrir la gouvernance des données, étendre l'ouverture aux algorithmes
+:::
+::::
+
+::: {.column width="50%"}
+![](img/conclusion.png)
+
+"Changer les données" : des données pour transformer la réalité
+:::
+::::::
+
+## Contact {background-color="#173541"}
+
+Contact : [samuel\@datactivist.coop](mailto:samuel@datactivist.coop)
