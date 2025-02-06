@@ -281,20 +281,6 @@ Source : *Le Monde*, 5 février 2025
 :::
 :::::
 
-## Autre exemple : les notes de frais des maires {background-color="#173541"}
-
-::::: columns
-::: {.column width="50%"}
-![](img/joissains.png)
-:::
-
-::: {.column width="50%"}
-![](img/chicane.png)
-
-Lire à ce sujet : [chicane-lemag.fr/16](https://chicane-lemag.fr/16)
-:::
-:::::
-
 ## Des promesses démesurées de croissance et d'innovation
 
 :::::: columns
