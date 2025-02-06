@@ -70,7 +70,7 @@ C'est l'instant autopromo
 
 -   Les statistiques façonnent la manière dont l'État conçoit et gouverne la société.
 
--   **Les outils statistiques et les formes de gouvernement sont co-construites**
+-   Les outils statistiques et les formes de gouvernement sont co-construites
 :::
 ::::
 
@@ -162,7 +162,7 @@ Source : *Le Monde*, 5 février 2025
 
 ## La visualisation de données
 
-![](images/DataVizProject_p1.png){width="874"}
+![](images/DataVizProject_p1.png){fig-align="center" width="874"}
 
 # L'open data et le service public de la donnée {background-color="#173541"}
 
@@ -334,7 +334,7 @@ Lire à ce sujet : [chicane-lemag.fr/16](https://chicane-lemag.fr/16)
 :::
 ::::::
 
-# Qu'est ce qu'on fait ? Alternatives et propositions {background-color="#173541"}
+# Que fait-on ? Quelques propositions {background-color="#173541"}
 
 ## On milite pour renforcer le droit d'accès
 
