@@ -8,6 +8,10 @@ format:
 editor: visual
 ---
 
+## Cette présentation en ligne
+
+![](images/qr.png)
+
 ## Qui suis-je ?
 
 ::: {.column width="40%"}
@@ -32,23 +36,23 @@ editor: visual
 C'est l'instant autopromo
 :::
 
-::::: fragment
-::: {.column width="65%"}
+:::::: fragment
+:::: {.column width="65%"}
 ::: incremental
-* **Comment faire pour mettre les données ouvertes au service des citoyens  et de la démocratie ? L’open data est-il vraiment un contre-pouvoir ?**
+-   **Comment faire pour mettre les données ouvertes au service des citoyens  et de la démocratie ? L’open data est-il vraiment un contre-pouvoir ?**
 
-* Open data : accès à la matière première de l’information et du savoir. Refaire les calculs et proposer de nouvelles interprétations.
+-   Open data : accès à la matière première de l’information et du savoir. Refaire les calculs et proposer de nouvelles interprétations.
 
-* —\> Un outil de la « **contre-démocratie** » : enrichit la démocratie, la conforte et fait système avec les institutions démocratiques
+-   —\> Un outil de la « **contre-démocratie** » : enrichit la démocratie, la conforte et fait système avec les institutions démocratiques
 
-* —\> Un outil d’**empowerment** et d’**émancipation**
+-   —\> Un outil d’**empowerment** et d’**émancipation**
 :::
-:::
+::::
 
 ::: {.column width="35%"}
 ![](img/couv_donnees-ouvertes_grand.jpg){width="70%" height="auto"}
 :::
-:::::
+::::::
 
 # Un petit détour par la théorie et l'actu pour commencer {background-color="#173541"}
 
@@ -64,10 +68,11 @@ C'est l'instant autopromo
 
 -   Ces catégories deviennent des cadres de pensée et d'action politique
 
--   Les statistiques façonnent la manière dont l'État conçoit et gouverne la société. -   **Les outils statistiques et les formes de gouvernement sont co-construites**
-:::
-:::
+-   Les statistiques façonnent la manière dont l'État conçoit et gouverne la société.
 
+-   **Les outils statistiques et les formes de gouvernement sont co-construites**
+:::
+::::
 
 ------------------------------------------------------------------------
 
@@ -107,7 +112,7 @@ Source : *Le Monde*, 5 février 2025
 ![](images/carte_lemonde-01.png)
 :::
 
-::: {.column width="40%"}
+:::: {.column width="40%"}
 ::: incremental
 -   Des données massives et diverses (téléphonie, mobilités, statistiques…)
 -   De la circulation de données entre le public et le privé
@@ -115,7 +120,7 @@ Source : *Le Monde*, 5 février 2025
 -   Des formats de visualisation de données
 -   Une médiatisation croissante de ces enjeux
 :::
-:::
+::::
 
 # Quelques concepts essentiels {background-color="#173541"}
 
@@ -249,20 +254,20 @@ Source : *Le Monde*, 5 février 2025
 
 ## Un renouvellement de la transparence en demi-teinte
 
-::::: columns
-::: {.column width="50%"}
+:::::: columns
+:::: {.column width="50%"}
 ::: incremental
 -   Les fondements juridiques instables de la transparence administrative
 -   L'open data : un carburant pour les « machines à scandale » ?
 -   Des données « inoffensives » ?
 -   Faut-il produire ses propres données ?
 :::
-:::
+::::
 
 ::: {.column width="50%"}
 ![](img/courdescomptes2.png)
 :::
-:::::
+::::::
 
 ## Un exemple : les Indices de Position Sociale des établissements scolaires {background-color="#173541"}
 
@@ -330,30 +335,8 @@ Lire à ce sujet : [chicane-lemag.fr/16](https://chicane-lemag.fr/16)
 ::::::
 
 # Qu'est ce qu'on fait ? Alternatives et propositions {background-color="#173541"}
-------------------------------------------------------------------------
-### On se retrousse les manches pour obtenir des données
 
-:::::: columns
-:::: {.column width="50%"}
-**5 stratégies alternatives :**
-
-::: incremental
-1.  Recourir au droit d'accès
-2.  Scraper les données sur le web
-3.  Rassembler des données à partir des informations disponibles
-4.  Faire appel à une foule de contributeurs
-5.  Concevoir des communs de données
-:::
-::::
-
-::: {.column width="50%"}
-![](img/cimade.jpeg)
-
-Un exemple : la Cimade avec [À guichets fermés](https://aguichetsfermes.lacimade.org/)
-:::
-::::::
-------------------------------------------------------------------------
-### On milite pour refonder le droit d'accès
+## On milite pour renforcer le droit d'accès
 
 :::::: columns
 :::: {.column width="50%"}
@@ -372,8 +355,7 @@ Un exemple : la Cimade avec [À guichets fermés](https://aguichetsfermes.lacima
 :::
 ::::::
 
-------------------------------------------------------------------------
-### On crée de nouveaux mécanismes pour obtenir les données
+## On crée de nouveaux mécanismes pour obtenir les données
 
 :::::: columns
 :::: {.column width="50%"}
@@ -391,8 +373,7 @@ Un exemple : la Cimade avec [À guichets fermés](https://aguichetsfermes.lacima
 :::
 ::::::
 
-------------------------------------------------------------------------
-### On développe la concertation entre producteurs et réutilisateurs
+## On développe la concertation entre producteurs et réutilisateurs
 
 :::::: columns
 :::: {.column width="50%"}
@@ -406,14 +387,13 @@ Un exemple : la Cimade avec [À guichets fermés](https://aguichetsfermes.lacima
 ::: {.column width="50%"}
 *Il existe des instances de concertation autour de la donnée mais dans des domaines sectoriels :*
 
-![](https://cnig.gouv.fr/IMG/png/cnig2022_geolocalise-petit-2.png)
+![](https://cnig.gouv.fr/IMG/png/cnig2022_geolocalise-petit-2.png){width="293"}
 
-![](https://www.cnis.fr/wp-content/uploads/2017/12/CNIS-LOGO-300dpi-QUADRI-768x394.jpg)
+![](https://www.cnis.fr/wp-content/uploads/2017/12/CNIS-LOGO-300dpi-QUADRI-768x394.jpg){width="370"}
 :::
 ::::::
-------------------------------------------------------------------------
 
-### On pérennise l'ouverture des données
+## On pérennise l'ouverture des données
 
 :::::: columns
 :::: {.column width="50%"}
@@ -428,8 +408,25 @@ Un exemple : la Cimade avec [À guichets fermés](https://aguichetsfermes.lacima
 ![](https://luigireggi.eu/wp-content/uploads/2018/06/Slide2.png)
 :::
 ::::::
-------------------------------------------------------------------------
-### On place les données au cœur des politiques publiques
+
+## On encourage à améliorer les données
+
+:::::: columns
+:::: {.column width="50%"}
+::: incremental
+-   Faire remonter la destination des données
+-   Faire entrer l'ouverture des données dans les fiches de poste des agents
+-   Montrer les résultats
+-   Citer les agents
+:::
+::::
+
+::: {.column width="50%"}
+![](img/livredor.png)
+:::
+::::::
+
+## On place les données au cœur des politiques publiques
 
 :::::: columns
 :::: {.column width="50%"}
@@ -445,9 +442,8 @@ Un exemple : la Cimade avec [À guichets fermés](https://aguichetsfermes.lacima
 ![](https://open.datactivist.coop/images/products/fresque-opendata.webp)
 :::
 ::::::
-------------------------------------------------------------------------
 
-### On développe une culture critique des données
+## On développe une culture critique des données
 
 :::::: columns
 :::: {.column width="50%"}
@@ -462,7 +458,6 @@ Un exemple : la Cimade avec [À guichets fermés](https://aguichetsfermes.lacima
 ![](https://www.francebleu.fr/s3/cruiser-production/2017/02/f21ba120-7982-495e-9b5a-445de5c9c21a/1200x680_carte_tae_support_cs_30_mars.webp)
 :::
 ::::::
-------------------------------------------------------------------------
 
 ## On forme massivement aux données
 
@@ -486,7 +481,7 @@ Un exemple : la Cimade avec [À guichets fermés](https://aguichetsfermes.lacima
 
 ::::: columns
 ::: {.column width="50%"}
-![](img/couv_donnees-ouvertes_grand.jpg)
+![](img/couv_donnees-ouvertes_grand.jpg){width="449"}
 :::
 
 ::: {.column width="50%"}
@@ -512,6 +507,4 @@ Un exemple : la Cimade avec [À guichets fermés](https://aguichetsfermes.lacima
 :::
 ::::::
 
-## Contact {background-color="#173541"}
-
-Contact : [samuel\@datactivist.coop](mailto:samuel@datactivist.coop)
+# Contact : [samuel\@datactivist.coop](mailto:samuel@datactivist.coop) {background-color="#173541"}
