@@ -31,13 +31,13 @@ editor: visual
 
 ## Je ne m'attendais pas à ça… {background-color="#FFF1EB"}
 
-![](images/Capture%20d’écran%202025-11-15%20à%2011.15.11.png){fig-align="center" width="399"}
+![](images/popi.png){fig-align="center" width="399"}
 
 Mais au fait, quelle était la promesse ?
 
 ## Open data : à quoi vous attendiez vous ? {background-color="#FFF1EB"}
 
-![](images/Capture%20d’écran%202025-11-15%20à%2011.17.08.png){fig-align="center" width="414"}
+![](images/expect.png){fig-align="center" width="414"}
 
 # 1. Les promesses de l'open data {background-color="#FFF1EB"}
 
@@ -75,7 +75,7 @@ Severin Naudet, Etalab, 2010
 :::
 
 ::: {.column width="60%"}
-![](images/Capture%20d’écran%202025-11-15%20à%2011.12.55.png)
+![](images/open data buildings.png)
 :::
 :::::
 
@@ -89,7 +89,7 @@ Severin Naudet, Etalab, 2010
 :::
 
 ::: {.column width="60%"}
-![](images/appsfordemocracycontest.jpg) ![](images/Capture%20d’écran%202025-11-16%20à%2021.56.27.png){width="375"}
+![](images/appsfordemocracycontest.jpg) ![](images/rennes.png){width="375"}
 :::
 :::::
 
@@ -115,7 +115,7 @@ Un potentiel de croissance surestimé : 0,4% et 7% du PIB mondial grâce à l'op
 :::
 
 ::: {.column width="60%"}
-![](images/Capture%20d’écran%202025-11-15%20à%2011.09.23-01.png){width="485"}
+![](images/aquitaine.png){width="485"}
 :::
 :::::
 
@@ -127,7 +127,7 @@ Un potentiel de croissance surestimé : 0,4% et 7% du PIB mondial grâce à l'op
 :::
 
 ::: {.column width="60%"}
-![](images/Capture%20d’écran%202025-11-15%20à%2011.11.40.png)
+![](images/owni.png)
 :::
 :::::
 
@@ -159,7 +159,7 @@ Un potentiel de croissance surestimé : 0,4% et 7% du PIB mondial grâce à l'op
 
 ::::: columns
 ::: {.column width="40%"}
-![](images/Capture%20d’écran%202025-11-16%20à%2023.08.45.png){width="401"}...
+![](images/etude-impact-loi-numerique.png){width="401"}...
 :::
 
 ::: {.column width="60%"}
@@ -229,19 +229,19 @@ Lire à ce sujet : [chicane-lemag.fr/16](https://chicane-lemag.fr/16)
 
 ## Quelques exemples de services nés de l'open data
 
-![](images/Capture%20d’écran%202025-11-16%20à%2023.44.53-01.png){fig-align="center"}
+![](images/namr.png){fig-align="center"}
 
 ## Quelques exemples de services nés de l'open data
 
-![](images/Capture%20d’écran%202025-11-16%20à%2023.43.35-01.png){fig-align="center"}
+![](images/delibia.png){fig-align="center"}
 
 ## Quelques exemples de services nés de l'open data
 
-![](images/Capture%20d’écran%202025-11-16%20à%2023.56.36.png){fig-align="center"}
+![](images/meilleursagents.png){fig-align="center"}
 
 ## Quelques exemples de services nés de l'open data
 
-![](images/Capture%20d’écran%202025-11-16%20à%2023.58.38.png){fig-align="center"}
+![](images/datapolitics.png){fig-align="center"}
 
 ## Une transformation des administrations en cours
 
@@ -325,7 +325,7 @@ Les politiques d'open data ont été pensées pour laisser de la place à l'inat
 
 ## Et comme les bibliothèques, connaître les non-usagers
 
-![](images/Capture d’écran 2025-11-17 à 01.01.30.png){fig-align="center"}
+![](images/non-users.png){fig-align="center"}
 
 # Merci ! {background-color="#173541"}
 
