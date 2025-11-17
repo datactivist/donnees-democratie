@@ -1,0 +1,332 @@
+---
+title: "Est-ce que l'open data a rempli ses promesses ?"
+author: "Biennale du numérique, ENSSIB, 17 novembre 2025"
+format: 
+  datactivist-revealjs:
+    css: |
+      @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap');
+    slide-level: 2
+editor: visual
+---
+
+## Qui suis-je ? {background-color="#FFF1EB"}
+
+::: {.column width="40%"}
+![](https://datactivist.coop/oraccle/comprendre_open_data/img/pdr.png)
+:::
+
+:::: {.column width="60%"}
+<div>
+
+-   Co-fondateur de la coopérative [Datactivist](https://datactivist.coop)
+
+-   Maître de conférences associé à Sciences Po Aix
+
+-   Auteur du livre [*Les Données de* *la démocratie*](https://cfeditions.com/donnees-democratie/)*,* C&F éditions, 2024
+
+-   Co-fondateur et administrateur de [MaDada.fr](MaDada.fr)
+
+</div>
+::::
+
+## Je ne m'attendais pas à ça… {background-color="#FFF1EB"}
+
+![](images/Capture%20d’écran%202025-11-15%20à%2011.15.11.png){fig-align="center" width="399"}
+
+Mais au fait, quelle était la promesse ?
+
+## Open data : à quoi vous attendiez vous ? {background-color="#FFF1EB"}
+
+![](images/Capture%20d’écran%202025-11-15%20à%2011.17.08.png){fig-align="center" width="414"}
+
+# 1. Les promesses de l'open data {background-color="#FFF1EB"}
+
+## Les 3 grandes promesses initiales
+
+<div>
+
+Un ordre qui varie selon les priorités politiques du moment
+
+![](images/logo_data_gouv.png;jsessionid=098DB939C498CA99A2A9B551FDDA991D.png){fig-align="center" width="638"}
+
+</div>
+
+## La promesse d'une transformation en profondeur
+
+::::: columns
+::: {.column width="40%"}
+![](images/5536119892_c6e14cbe35_b.jpg)
+:::
+
+::: {.column width="60%"}
+> « A l’horizon du siècle, l’Open Data apparaît comme un instrument puissant, aux mains des dirigeants et de la société civile, pour répondre aux grands défis notamment du réchauffement climatique, de la croissance durable, ou de la régulation du système financier international. »
+
+Severin Naudet, Etalab, 2010
+:::
+:::::
+
+## Transparence
+
+::::: columns
+::: {.column width="40%"}
+**Les "machines à scandales"** (Parasie et Dagiral) : distribuer nos indignations collectives et décentraliser les centres de calcul\
+
+**Les "auditeurs en pantoufle"** (Cameron) : l'effet potentiellement dissuasif d'une vigie citoyenne
+:::
+
+::: {.column width="60%"}
+![](images/Capture%20d’écran%202025-11-15%20à%2011.12.55.png)
+:::
+:::::
+
+## Innovation
+
+::::: columns
+::: {.column width="40%"}
+**Les promesses de croissance de l'économie des apps en pleine crise financière**
+
+**Le "solutionnisme" démocratique (Morozov)** : des applications pour résoudre les problèmes publics
+:::
+
+::: {.column width="60%"}
+![](images/appsfordemocracycontest.jpg) ![](images/Capture%20d’écran%202025-11-16%20à%2021.56.27.png){width="375"}
+:::
+:::::
+
+## Innovation
+
+::::: columns
+::: {.column width="40%"}
+**Des études macro-économiques excessives, des méthodes variables**
+
+Un potentiel de croissance surestimé : 0,4% et 7% du PIB mondial grâce à l'open data
+:::
+
+::: {.column width="60%"}
+![](images/data-is-the-new-oil-1000.jpg)
+:::
+:::::
+
+## Innovation
+
+::::: columns
+::: {.column width="40%"}
+**Des territoires attirés par la promesse de création d'emplois**
+:::
+
+::: {.column width="60%"}
+![](images/Capture%20d’écran%202025-11-15%20à%2011.09.23-01.png){width="485"}
+:::
+:::::
+
+## Innovation
+
+::::: columns
+::: {.column width="40%"}
+**Une culture de la redevance encore persistante dans l'État**
+:::
+
+::: {.column width="60%"}
+![](images/Capture%20d’écran%202025-11-15%20à%2011.11.40.png)
+:::
+:::::
+
+## Ouverture et transformation
+
+::::: columns
+::: {.column width="40%"}
+**Le gouvernement ouvert : une mayonnaise qui n'a jamais vraiment pris en France**
+:::
+
+::: {.column width="60%"}
+![](images/gouvouvert-01.png)
+:::
+:::::
+
+## Ouverture et transformation
+
+::::: columns
+::: {.column width="40%"}
+**Un projet de transformation publique pas toujours assumé ou pensé comme tel**
+:::
+
+::: {.column width="60%"}
+![](images/1647190458428.png)
+:::
+:::::
+
+## Des objectifs vastes traduits dans la loi
+
+::::: columns
+::: {.column width="40%"}
+![](images/Capture%20d’écran%202025-11-16%20à%2023.08.45.png){width="401"}...
+:::
+
+::: {.column width="60%"}
+> *"Le présent projet de loi vise à augmenter le volume de documents administratifs mis en ligne par les administrations dans le cadre de la politique d’open data, afin*
+>
+> -   *d’accroître la transparence des autorités publiques*
+>
+> -   *d’améliorer les services publics*
+>
+> -   *et de stimuler le développement de nouvelles activités économiques*
+>
+> *\[…\] Cette politique constitue un axe essentiel de la construction d’un **gouvernement plus ouvert et plus efficace**. \[…\] C’est aussi un important **levier de stimulation du dynamisme économique et de l’innovation.**"*
+:::
+:::::
+
+# L'open data : bilan critique et propositions {background-color="#FFF1EB"}
+
+## Un renouvellement de la transparence en demi-teinte
+
+:::::: columns
+:::: {.column width="50%"}
+::: incremental
+-   Les fondements juridiques instables de la transparence administrative
+-   L'open data : un carburant pour les « machines à scandale » ?
+-   Des données « inoffensives » ?
+-   Faut-il produire ses propres données ?
+:::
+::::
+
+::: {.column width="50%"}
+![](img/courdescomptes2.png)
+:::
+::::::
+
+## Un exemple : les Indices de Position Sociale des établissements scolaires
+
+::::: columns
+::: {.column width="50%"}
+![](img/lechenet.png)
+:::
+
+::: {.column width="50%"}
+![](img/lemonde-ips.png)
+:::
+:::::
+
+## Autre exemple : les notes de frais des maires![](images/Labyrinthe-CHICANE-16-1.png){width="1000"}
+
+Lire à ce sujet : [chicane-lemag.fr/16](https://chicane-lemag.fr/16)
+
+## Des promesses démesurées de croissance et d'innovation
+
+:::::: columns
+:::: {.column width="50%"}
+::: incremental
+-   Le « nouveau pétrole » : des conjectures de croissance et d'emploi disproportionnées
+-   Un impact en deçà des attentes sur la création d'emploi
+-   Des données souvent introuvables et mal documentées
+-   Des données pas encore assez fiables pour créer des services pérennes
+:::
+::::
+
+::: {.column width="50%"}
+![](img/preische.png)
+:::
+::::::
+
+## Quelques exemples de services nés de l'open data
+
+![](images/Capture%20d’écran%202025-11-16%20à%2023.44.53-01.png){fig-align="center"}
+
+## Quelques exemples de services nés de l'open data
+
+![](images/Capture%20d’écran%202025-11-16%20à%2023.43.35-01.png){fig-align="center"}
+
+## Quelques exemples de services nés de l'open data
+
+![](images/Capture%20d’écran%202025-11-16%20à%2023.56.36.png){fig-align="center"}
+
+## Quelques exemples de services nés de l'open data
+
+![](images/Capture%20d’écran%202025-11-16%20à%2023.58.38.png){fig-align="center"}
+
+## Une transformation des administrations en cours
+
+:::::: columns
+:::: {.column width="50%"}
+::: incremental
+-   Le mirage de l'ouverture des données par défaut
+-   Les nombreux obstacles à surmonter dans l'ouverture des données
+-   Les bénéfices inattendus de l'ouverture des données pour le fonctionnement des administrations
+:::
+::::
+
+::: {.column width="50%"}
+![](img/odimpact.png)
+
+*illustration : [GovLab - Open Data Impact](https://odimpact.org/)*
+:::
+::::::
+
+# 3. Les difficultés d'évaluer l'impact de l'open data {background-color="#FFF1EB"}
+
+## Qui sont les usagers ?
+
+![](images/1*XWyA3gMwJHbukAhv5xUr0A-2.webp){fig-align="center"}
+
+## Qu'est-ce qu'une réutilisation ?
+
+![](images/1*PMzeq5bMq-n2PDHQCsnU4g.webp){fig-align="center"}
+
+## Mieux connaitre les usagers
+
+::::: columns
+::: {.column width="40%"}
+Les producteurs de données ne connaissent pas leurs usagers, mise à part quelques chiffres et une avalanche de mails en cas de coupure involontaire.
+
+**Une action simple : demander de manière facultative à quoi vont servir les données**
+:::
+
+::: {.column width="60%"}
+![](images/435e0f0e8e53c2d9fbfe0f69405bac97faa65e25.png){width="529"}
+:::
+:::::
+
+## Evaluer les portails open data comme des infrastructures
+
+::::: columns
+::: {.column width="40%"}
+**Comme une autoroute ne crée pas l'activité économique mais l'encourage, une plateforme comme data.gouv.fr facilite des usages dont l'impact dépend de ce qu'en font les acteurs.**
+:::
+
+::: {.column width="60%"}
+![](images/pexels-brett-sayles-1624895.jpg)
+:::
+:::::
+
+## Vers une troisième vague de l'open data guidée par l'impact ?
+
+![](img/third-wave.png){fig-align="center"}
+
+## Laisser de la place aux débordements
+
+::::: columns
+::: {.column width="40%"}
+![](images/debordements-g.jpg)
+:::
+
+::: {.column width="60%"}
+Michel Callon nous invite à laisser de la place aux débordements : c’est le destin de tout cadrage que d’être débordé.
+
+> "Au lieu de considérer que le cadrage va de soi et que le débordement est une sorte d’accident auquel il faut remédier, **le débordement est la règle, le cadrage est un résultat fragile et construit qui suppose de coûteux investissements"**
+>
+> Michel Callon, 1999, p. 408
+
+Les politiques d'open data ont été pensées pour laisser de la place à l'inattendu, à des résultats qui sortent du cadrage imaginé par les décideurs.
+:::
+:::::
+
+## Ouvrir les données qui n'existent pas (encore) ?
+
+![](images/Venn%20open%20data.png){width="560" fig-align="center"}
+
+## Et comme les bibliothèques, connaître les non-usagers
+
+![](images/Capture d’écran 2025-11-17 à 01.01.30.png){fig-align="center"}
+
+# Merci ! {background-color="#173541"}
+
+[samuel\@datactivist.coop](mailto:samuel@datactivist.coop)
